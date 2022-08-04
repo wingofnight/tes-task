@@ -1,0 +1,16 @@
+C:\Users\sam_b\source\repos21\TestQuest2\TestQuest2\bin\Debug\TestQuest2.exe.config
+C:\Users\sam_b\source\repos21\TestQuest2\TestQuest2\bin\Debug\TestQuest2.exe
+C:\Users\sam_b\source\repos21\TestQuest2\TestQuest2\bin\Debug\TestQuest2.pdb
+C:\Users\sam_b\source\repos21\TestQuest2\TestQuest2\obj\Debug\TestQuest2.csproj.AssemblyReference.cache
+C:\Users\sam_b\source\repos21\TestQuest2\TestQuest2\obj\Debug\TestQuest2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sam_b\source\repos21\TestQuest2\TestQuest2\obj\Debug\MainWindow.g.cs
+C:\Users\sam_b\source\repos21\TestQuest2\TestQuest2\obj\Debug\App.g.cs
+C:\Users\sam_b\source\repos21\TestQuest2\TestQuest2\obj\Debug\TestQuest2_MarkupCompile.cache
+C:\Users\sam_b\source\repos21\TestQuest2\TestQuest2\obj\Debug\TestQuest2_MarkupCompile.lref
+C:\Users\sam_b\source\repos21\TestQuest2\TestQuest2\obj\Debug\MainWindow.baml
+C:\Users\sam_b\source\repos21\TestQuest2\TestQuest2\obj\Debug\TestQuest2.g.resources
+C:\Users\sam_b\source\repos21\TestQuest2\TestQuest2\obj\Debug\TestQuest2.Properties.Resources.resources
+C:\Users\sam_b\source\repos21\TestQuest2\TestQuest2\obj\Debug\TestQuest2.csproj.GenerateResource.cache
+C:\Users\sam_b\source\repos21\TestQuest2\TestQuest2\obj\Debug\TestQuest2.csproj.CoreCompileInputs.cache
+C:\Users\sam_b\source\repos21\TestQuest2\TestQuest2\obj\Debug\TestQuest2.exe
+C:\Users\sam_b\source\repos21\TestQuest2\TestQuest2\obj\Debug\TestQuest2.pdb
